@@ -1,8 +1,8 @@
-# Welcome to E26-SW02-09 야호
+# Welcome to E26-SW02-09 
 
 ## 🎯 팀 슬로건
 
-> 팀 슬로건을 작성합니다.
+> 404: 한계 Not Found
 
 ## 🖼️ 팀 포스터
 
