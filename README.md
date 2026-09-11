@@ -1,4 +1,4 @@
-# Welcome to E26-SW02-09 야르
+# Welcome to E26-SW02-09 야호
 
 ## 🎯 팀 슬로건
 
